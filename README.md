@@ -2,8 +2,10 @@
 
 📚 Certificated IT Technician graduated from Salesian Technical High School in Świętochłowice, Poland
 
-🏫 Faculty of Applied Mathematics at Silesian University of Technology in Gliwice, Poland
+🏫 Faculty of Applied Mathematics at Silesian University of Technology in Gliwice, Poland<br/>
 🎓 1st year of Engineering degree in Informatics
+
+📲 Creating mobile applicatons using modern technology stacks
 
 
 ## 🌐 Socials:
