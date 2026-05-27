@@ -3,10 +3,9 @@
 📚 Certificated IT Technician graduated from Salesian Technical High School in Świętochłowice, Poland
 
 🏫 Faculty of Applied Mathematics at Silesian University of Technology in Gliwice, Poland<br/>
-🎓 1st year of Engineering degree in Informatics
+🎓 1st year of Engineering degree in Computer Science
 
-📲 Creating mobile applicatons using modern technology stacks
-
+🌐 Mainly working with web developement
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mateuszgebkaa) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mateuszgebkaa) 
